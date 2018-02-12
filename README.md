@@ -32,3 +32,11 @@
 - [ ] 테마 boilerplate만들기
 - [ ] Hexo git 배포
 
+## 자바스크립트 애니메이션
+
+- [ ] 라이브러리 문서 읽기
+  - [ ] Animate.css
+  - [ ] Mo.js
+  - [ ] Anime.js
+- [ ] 해볼 것
+  - [ ] [카카오 헤어샵](http://www.kakao.com/kakaohairshop)
