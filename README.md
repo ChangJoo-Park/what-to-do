@@ -2,6 +2,12 @@
 
 앞으로 해야할 일 또는 생각하는 걸 보관하기 위함
 
+## 블로그
+
+- [ ] trophy-jekyll 테마 수정
+- [ ] https://changjoo-park.github.io 로 배포
+  - [ ] 기존 자료는 여기로 옮김
+
 ## Slate
 
 ### 왜?
@@ -41,3 +47,13 @@
   - [ ] Anime.js
 - [ ] 해볼 것
   - [ ] [카카오 헤어샵](http://www.kakao.com/kakaohairshop)
+
+## Crystal
+
+- [ ] 기본 문법 보기 :  https://crystal-lang.org/docs/
+- [ ] [Kemal](http://kemalcr.com/) 읽기
+- [ ] [Amber Framework](https://amberframework.org/) 읽기
+  - [ ] [Granite-ORM](https://github.com/amberframework/granite-orm)
+- [ ] [Lucky Framework](https://luckyframework.org/) 읽기
+- [ ] [Awesome Crystal](http://awesomelists.top/#/repos/veelenga/awesome-crystal) 에서 라이브러리 확인
+- [ ] [Crystal Shards](https://crystalshards.xyz/) 확인
