@@ -26,3 +26,9 @@
   - [ ] https://github.com/ChangJoo-Park/docker-slate 를 직접 만듦
     - tutumcloud의 slate는 git submodule을 사용해서 참조하는 것인데 몰랐음 
     - [공식문서 git 서브모듈](https://git-scm.com/book/ko/Git-%EB%8F%84%EA%B5%AC-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88)
+
+## Hexo
+
+- [ ] 테마 boilerplate만들기
+- [ ] Hexo git 배포
+
