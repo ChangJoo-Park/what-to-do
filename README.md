@@ -6,7 +6,8 @@
 
 - [ ] trophy-jekyll 테마 수정
 - [ ] https://changjoo-park.github.io 로 배포
-  - [ ] 기존 자료는 여기로 옮김
+- [ ] 기존 자료는 여기로 옮김
+
 
 ## Slate
 
@@ -37,7 +38,7 @@
 
 - [ ] 테마 boilerplate만들기
 - [ ] Hexo git 배포
-
+- [ ] Hexo 테마를 개발하는 경우, 테마를 수정하 어떻게 hexo가 알아채게 할 수 있는지?
 
 ## 자바스크립트 애니메이션
 
