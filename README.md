@@ -11,7 +11,7 @@
 ## Hexo
 
 - [ ] 테마 boilerplate만들기
-- [ ] Hexo git 배포
+- [ ] Hexo git 배포 - [문서](https://hexo.io/docs/deployment.html)
 - [ ] Hexo 테마를 개발하는 경우, 테마가 수정되면 어떻게 hexo가 알아채게 할 수 있는지?
 - [ ] Hexo post의 날짜는 어떻게 규격(format)을 정할까? [문서](https://hexo.io/docs/helpers.html#date)
 
