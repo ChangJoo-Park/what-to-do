@@ -67,4 +67,4 @@
 
 ## Firebase
 
-- [ ] Cloud Functions를 이용해서 웹페이지 만들기
+- [x] Cloud Functions + Hosting을 이용해서 웹페이지 만들기 [예제](https://github.com/ChangJoo-Park/firebase-functions-express)
