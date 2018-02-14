@@ -8,6 +8,12 @@
 - [ ] https://changjoo-park.github.io 로 배포
 - [ ] 기존 자료는 여기로 옮김
 
+## Hexo
+
+- [ ] 테마 boilerplate만들기
+- [ ] Hexo git 배포
+- [ ] Hexo 테마를 개발하는 경우, 테마를 수정하 어떻게 hexo가 알아채게 할 수 있는지?
+- [ ] Hexo post의 날짜는 어떻게 규격(format)을 정할까?
 
 ## Slate
 
@@ -33,12 +39,6 @@
   - [ ] https://github.com/ChangJoo-Park/docker-slate 를 직접 만듦
     - tutumcloud의 slate는 git submodule을 사용해서 참조하는 것인데 몰랐음 
     - [공식문서 git 서브모듈](https://git-scm.com/book/ko/Git-%EB%8F%84%EA%B5%AC-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88)
-
-## Hexo
-
-- [ ] 테마 boilerplate만들기
-- [ ] Hexo git 배포
-- [ ] Hexo 테마를 개발하는 경우, 테마를 수정하 어떻게 hexo가 알아채게 할 수 있는지?
 
 ## 자바스크립트 애니메이션
 
