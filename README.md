@@ -58,7 +58,7 @@
 - [ ] [Lucky Framework](https://luckyframework.org/) 읽기
 - [ ] [Awesome Crystal](http://awesomelists.top/#/repos/veelenga/awesome-crystal) 에서 라이브러리 확인
 - [ ] [Crystal Shards](https://crystalshards.xyz/) 확인
-
+- [ ] Image Resize Server + [MagickWand Crystal](https://github.com/blocknotes/magickwand-crystal)
 
 ## CSS
 
