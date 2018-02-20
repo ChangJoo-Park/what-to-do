@@ -77,4 +77,6 @@
 
 ## Google Spreadsheet
 
-- [ ] Vue.js 와 Google Spreadsheet를 이용해 웹 앱 만들기 [참고](https://coderwall.com/p/duapqq/use-a-google-spreadsheet-as-your-json-backend)
+- [x] Vue.js 와 Google Spreadsheet를 이용해 웹 앱 만들기 [참고](https://coderwall.com/p/duapqq/use-a-google-spreadsheet-as-your-json-backend)
+- [x] [Get Sheet Done](https://github.com/giladaya/get-sheet-done)
+- [ ] Lean Canvas 
