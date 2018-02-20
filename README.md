@@ -73,3 +73,8 @@
 ## NativeScript
 
 - [ ] Grocery NativeScript Vue [Template](https://github.com/nativescript-vue/nativescript-vue-webpack-template), [Sample](https://github.com/tralves/groceries-ns-vue), [Sample, NS + Vue](https://github.com/tralves/groceries-ns-vue)
+
+
+## Google Spreadsheet
+
+- [ ] Vue.js 와 Google Spreadsheet를 이용해 웹 앱 만들기 
